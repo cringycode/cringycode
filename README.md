@@ -19,7 +19,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cringycode&show_icons=true&locale=en" alt="cringycode" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cringycode&theme=dark" alt="cringycode" /></p>
-
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
@@ -67,5 +66,7 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+![snake gif](https://github.com/cringycode/cringycode/blob/output/github-contribution-grid-snake.svg)
 
 ###
